@@ -1,0 +1,12 @@
+Flask==1.0.2
+flask
+SQLAlchemy
+flask_sqlalchemy
+flask_bootstrap
+requests
+wtforms
+flask_wtf
+flask_login
+flask_ckeditor
+werkzeug
+flask_gravatar
